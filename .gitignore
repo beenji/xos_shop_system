@@ -1,3 +1,7 @@
+# configuration files
+shop/includes/configure.php
+shop/admin/includes/configure.php
+
 # generated database backups
 shop/admin/backups/*.sql
 shop/admin/backups/*.sql.gz
