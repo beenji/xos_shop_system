@@ -1,0 +1,17 @@
+# configuration files
+shop/includes/configure.php
+shop/admin/includes/configure.php
+
+# generated database backups
+shop/admin/backups/*.sql
+shop/admin/backups/*.sql.gz
+
+# generated graphs as PNG images
+shop/admin/images/graphs/*.png
+
+# smarty cache files
+shop/install/templates_c/*.php
+shop/smarty/catalog/templates_c/*.php
+shop/smarty/catalog/cache/*.php
+shop/smarty/admin/templates_c/*.php
+shop/smarty/admin/cache/*.php
